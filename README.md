@@ -1,10 +1,10 @@
-# Java Fundamentals ☕
+# Java Fundamentals 
 
 A beginner-friendly Java repository that documents my learning journey from the basics of Java to core concepts. This repository contains well-organized notes, diagrams, and examples to strengthen my understanding of Java fundamentals.
 
 ---
 
-# 📚 Topics Covered
+# Topics Covered
 
 ## 01. Introduction
 
@@ -14,11 +14,16 @@ A beginner-friendly Java repository that documents my learning journey from the 
 * Features and Applications of Java
 * Class, Object, Method and Variable
 
+## 02. Java Architecture
 
+* Java Execution Flow
+* JDK, JRE and JVM
+* Class Loaders
+* JIT (Just-In-Time) Compiler
 
 ---
 
-# 🎯 Learning Goals
+#  Learning Goals
 
 * Understand the fundamentals of Java.
 * Learn how Java programs are compiled and executed.
@@ -30,7 +35,7 @@ A beginner-friendly Java repository that documents my learning journey from the 
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```text
 Java/
@@ -38,14 +43,18 @@ Java/
 ├── README.md
 │
 ├── 01_Introduction/
-   ├── Java_Overview.md
-   ├── History.md
-   ├── Why_Java.md
-   ├── Features_and_Applications.md
-   └── Class_Object_Method_Variable.md
-
-
+│   ├── Java_Overview.md
+│   ├── History.md
+│   ├── Why_Java.md
+│   ├── Features_and_Applications.md
+│   └── Class_Object_Method_Variable.md
+│
+└── 02_Java_Architecture/
+    ├── Java_Execution_Flow.md
+    ├── JDK_JRE_JVM.md
+    ├── Class_Loaders.md
+    └── JIT_Compiler.md
 ```
 
-
+---
 
