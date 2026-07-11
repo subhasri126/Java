@@ -4,7 +4,7 @@ A beginner-friendly Java repository that documents my learning journey from the 
 
 ---
 
-#  Topics Covered
+# 📚 Topics Covered
 
 ## 01. Introduction
 
@@ -15,6 +15,8 @@ A beginner-friendly Java repository that documents my learning journey from the 
 * Class, Object, Method and Variable
 
 
+
+---
 
 # 🎯 Learning Goals
 
@@ -41,9 +43,9 @@ Java/
    ├── Why_Java.md
    ├── Features_and_Applications.md
    └── Class_Object_Method_Variable.md
-```
 
----
+
+```
 
 
 
