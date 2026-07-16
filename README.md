@@ -21,6 +21,10 @@ A beginner-friendly Java repository that documents my learning journey from the 
 * Class Loaders
 * JIT (Just-In-Time) Compiler
 
+## Java_Structure
+
+* Main.java
+
 ---
 
 #  Learning Goals
