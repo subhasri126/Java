@@ -79,3 +79,9 @@ Java/
 # Repository Goal
 
 This repository is created to document my Java learning journey with structured notes, practical examples, and interview-oriented concepts. It serves as a personal knowledge base for revision and a helpful resource for anyone beginning their Java programming journey.
+
+## 👩‍💻 Author
+
+**Subhasri S**
+
+Computer Science Engineering Student
