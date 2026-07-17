@@ -34,17 +34,13 @@ A beginner-friendly Java repository that documents my learning journey from the 
 
 # Learning Goals
 
-- Understand the fundamentals of Java programming.
-- Learn how Java programs are compiled and executed.
-- Understand the roles of JDK, JRE, and JVM.
-- Understand the internal working of the JVM.
-- Learn JVM Memory Management and Garbage Collection.
-- Understand the structure of a Java program.
-- Learn the purpose of methods, classes, and packages.
-- Understand the `main()` method and its keywords.
-- Write basic Java programs using output methods and comments.
-- Build a strong foundation before learning Variables, Data Types, OOP, Collections, Multithreading, and other advanced Java concepts.
+# Learning Goals
 
+- Understand the fundamentals of Java.
+- Learn how Java programs are compiled and executed.
+- Understand the JVM and Java Architecture.
+- Build a strong foundation in Core Java.
+- Prepare for interviews with well-structured notes.
 ---
 
 # Repository Structure
