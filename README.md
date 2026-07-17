@@ -36,11 +36,12 @@ A beginner-friendly Java repository that documents my learning journey from the 
 
 # Learning Goals
 
-- Understand the fundamentals of Java.
-- Learn how Java programs are compiled and executed.
-- Understand the JVM and Java Architecture.
-- Build a strong foundation in Core Java.
-- Prepare for interviews with well-structured notes.
+# Learning Goals
+
+- Learn Core Java concepts step by step.
+- Understand Java Architecture and Program Structure.
+- Strengthen problem-solving and programming skills.
+- Build a strong foundation for advanced Java topics.
 ---
 
 # Repository Structure
