@@ -159,7 +159,11 @@ If the JShell session is closed, the code is lost unless it is explicitly saved.
 
 ### Code
 
-1.```java
+## Example 1
+
+### Code
+
+```java
 System.out.println("Hello, World!");
 ```
 
@@ -169,15 +173,24 @@ System.out.println("Hello, World!");
   <img src="hello_world_output.png" alt="Hello World Output" width="600">
 </p>
 
-2 . ```java
-int a=10; int b=10; System.out.println("ans: " + (a+b));
+---
+
+## Example 2
+
+### Code
+
+```java
+int a = 10;
+int b = 10;
+
+System.out.println("Ans: " + (a + b));
 ```
+
 ### Output
 
 <p align="center">
-  <img src="addition_of_two_number" alt="Addition of two numbers" width="600">
+  <img src="addition_of_two_numbers.png" alt="Addition of Two Numbers Output" width="600">
 </p>
-
 
 ## Key Points
 
