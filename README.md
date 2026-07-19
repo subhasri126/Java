@@ -30,6 +30,7 @@ A beginner-friendly Java repository that documents my learning journey from the 
 - Output Methods
 - Comments
 - Public_Class_and_File_Naming
+- JShell_and_REPL
 
 ---
 
