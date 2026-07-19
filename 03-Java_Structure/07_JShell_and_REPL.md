@@ -155,6 +155,19 @@ If the JShell session is closed, the code is lost unless it is explicitly saved.
 - Helpful for debugging.
 
 ---
+## Example
+
+### Code
+
+```java
+System.out.println("Hello, World!");
+```
+
+### Output
+
+<p align="center">
+  <img src="images/hello_world_output.png" alt="Hello World Output" width="600">
+</p>
 
 ## Key Points
 
