@@ -166,7 +166,7 @@ System.out.println("Hello, World!");
 ### Output
 
 <p align="center">
-  <img src="images/hello_world_output.png" alt="Hello World Output" width="600">
+  <img src="hello_world_output.png" alt="Hello World Output" width="600">
 </p>
 
 ## Key Points
