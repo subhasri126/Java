@@ -189,7 +189,7 @@ System.out.println("Ans: " + (a + b));
 ### Output
 
 <p align="center">
-  <img src="addition_of_two_numbers.png" alt="Addition of Two Numbers Output" width="600">
+  <img src="addition_of_two_number.png" alt="Addition of Two Numbers Output" width="600">
 </p>
 
 ## Key Points
