@@ -32,6 +32,10 @@ A beginner-friendly Java repository that documents my learning journey from the 
 - Public_Class_and_File_Naming
 - JShell_and_REPL
 
+## 04. Variables and Data types
+
+- Variables
+
 ---
 
 # Learning Goals
