@@ -72,14 +72,16 @@ Java/
 │   └── Garbage_Collector.md
 │
 └── 03_Java_Program_Structure/
-    ├── README.md
-    ├── 01_Methods_Classes_Packages.md
-    ├── 02_Java_Program_Structure.md
-    ├── 03_Main_Method_and_Keywords.md
-    ├── 04_Output_Methods.md
-    ├── 05_Comments.md
-    ├── 06_Public_Class_and_File_Naming.md
-    └── 07_JShell_and_REPL.md
+|   ├── README.md
+|   ├── 01_Methods_Classes_Packages.md
+|   ├── 02_Java_Program_Structure.md
+|   ├── 03_Main_Method_and_Keywords.md
+|   ├── 04_Output_Methods.md
+|   ├── 05_Comments.md
+|   ├── 06_Public_Class_and_File_Naming.md
+|   └── 07_JShell_and_REPL.md
+└── 04_Variables_and_Data_Types/
+    └── 01_Variables.md
     
 ```
 
