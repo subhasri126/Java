@@ -82,6 +82,9 @@ Java/
 |   └── 07_JShell_and_REPL.md
 └── 04_Variables_and_Data_Types/
     └── 01_Variables.md
+    └── 02_Variable_Naming_Conventions
+    └── 03_Identifiers
+    
     
 ```
 
