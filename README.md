@@ -84,7 +84,10 @@ Java/
     └── 01_Variables.md
     └── 02_Variable_Naming_Conventions
     └── 03_Identifiers
-    
+    04_Data_Types/
+    │
+    ├── 01_Data_Types.md
+    ├── 02_Primitive_Data_Types.md
     
 ```
 
