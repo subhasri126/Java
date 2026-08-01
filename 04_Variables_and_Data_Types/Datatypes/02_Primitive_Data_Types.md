@@ -22,145 +22,6 @@ Each primitive data type has:
 
 ---
 
-# Computer Stores Everything in Binary
-
-A computer understands only two values:
-
-- 0
-- 1
-
-These values are called **Binary Digits (Bits)**.
-
-Every value in Java, such as integers, decimal numbers, characters, and boolean values, is ultimately stored in binary.
-
----
-
-# Bit
-
-A **Bit (Binary Digit)** is the smallest unit of memory in a computer.
-
-A bit can store only one of two values.
-
-- 0
-- 1
-
-Therefore,
-
-```text
-1 Bit = 2¹ = 2 Possible Values
-```
-
----
-
-# Byte
-
-A **Byte** consists of **8 Bits**.
-
-```text
-1 Byte = 8 Bits
-```
-
-Since each bit has two possible values,
-
-```text
-2⁸ = 256 Possible Combinations
-```
-
----
-
-# Memory Units
-
-| Unit | Value |
-|------|--------|
-| 1 Byte (B) | 8 Bits |
-| 1 Kilobyte (KB) | 1024 Bytes |
-| 1 Megabyte (MB) | 1024 KB |
-| 1 Gigabyte (GB) | 1024 MB |
-| 1 Terabyte (TB) | 1024 GB |
-
----
-
-# Binary Combinations
-
-Each bit has two possible values:
-
-- 0
-- 1
-
-If there are **n bits**, the total number of possible combinations is:
-
-```text
-2ⁿ
-```
-
-Example:
-
-| Bits | Possible Combinations |
-|------|------------------------|
-| 1 | 2¹ = 2 |
-| 2 | 2² = 4 |
-| 3 | 2³ = 8 |
-| 8 | 2⁸ = 256 |
-
----
-
-# Signed and Unsigned Integers
-
-Generally, integers are classified into two types.
-
-## Unsigned Integer
-
-Stores only positive numbers (including zero).
-
-Example (8-bit):
-
-```text
-0 to 255
-```
-
----
-
-## Signed Integer
-
-Stores both positive and negative numbers.
-
-The **Most Significant Bit (MSB)** is reserved as the sign bit.
-
-- MSB = 0 → Positive
-- MSB = 1 → Negative
-
-> **Note:** Java supports only **signed integer** primitive data types (`byte`, `short`, `int`, and `long`).
-
----
-
-# Why is the Byte Range -128 to 127?
-
-A byte contains **8 bits**.
-
-- 1 bit is reserved for the sign.
-- Remaining 7 bits store the value.
-
-Negative range:
-
-```text
--2⁷ = -128
-```
-
-Positive range:
-
-```text
-2⁷ − 1 = 127
-```
-
-The **-1** is because **0** is also included in the positive range.
-
-Therefore,
-
-```text
-Byte Range = -128 to 127
-```
-
----
 
 # Categories of Primitive Data Types
 
@@ -232,18 +93,20 @@ boolean isPassed = true;
 
 # Primitive Data Types
 
-| Data Type | Size | Range | Default Value |
-|-----------|------|------------------------------|---------------|
-| byte | 1 Byte | -128 to 127 | 0 |
-| short | 2 Bytes | -32,768 to 32,767 | 0 |
-| int | 4 Bytes | -2,147,483,648 to 2,147,483,647 | 0 |
-| long | 8 Bytes | -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 | 0L |
-| float | 4 Bytes | Approximately ±3.4 × 10³⁸ | 0.0f |
-| double | 8 Bytes | Approximately ±1.8 × 10³⁰⁸ | 0.0d |
-| char | 2 Bytes | 0 to 65,535 (Unicode) | '\u0000' |
-| boolean | JVM-dependent | true or false | false |
+| Data Type | Size | Range (Power of 2) | Default Value |
+|-----------|------|--------------------|---------------|
+| `byte` | 1 Byte (8 bits) | **-2⁷ to 2⁷ - 1** | `0` |
+| `short` | 2 Bytes (16 bits) | **-2¹⁵ to 2¹⁵ - 1** | `0` |
+| `int` | 4 Bytes (32 bits) | **-2³¹ to 2³¹ - 1** | `0` |
+| `long` | 8 Bytes (64 bits) | **-2⁶³ to 2⁶³ - 1** | `0L` |
+| `float` | 4 Bytes (32 bits) | Approximately **±2¹²⁸** (IEEE 754) | `0.0f` |
+| `double` | 8 Bytes (64 bits) | Approximately **±2¹⁰²⁴** (IEEE 754) | `0.0d` |
+| `char` | 2 Bytes (16 bits) | **0 to 2¹⁶ − 1** | `'\u0000'` |
+| `boolean` | JVM-dependent | `true` or `false` | `false` |
 
 ---
+
+
 
 # Character Representation
 

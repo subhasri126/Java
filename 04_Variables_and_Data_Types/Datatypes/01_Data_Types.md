@@ -88,6 +88,31 @@ Since one bit has two possible values,
 
 ---
 
+# Binary Combinations
+
+Each bit has two possible values:
+
+- 0
+- 1
+
+If there are **n bits**, the total number of possible combinations is:
+
+```text
+2ⁿ
+```
+
+Example:
+
+| Bits | Possible Combinations |
+|------|------------------------|
+| 1 | 2¹ = 2 |
+| 2 | 2² = 4 |
+| 3 | 2³ = 8 |
+| 8 | 2⁸ = 256 |
+
+---
+
+
 # Signed and Unsigned Integers
 
 In computer systems, integers are generally classified into two types.
