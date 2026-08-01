@@ -35,6 +35,13 @@ A beginner-friendly Java repository that documents my learning journey from the 
 ## 04. Variables and Data types
 
 - Variables
+- Variable Naming Convention
+- Identifiers
+- Datatypes
+    ->Datatypes
+    ->Primitive Data type
+    ->Nonprimitive Data type 
+
 
 ---
 
@@ -88,6 +95,12 @@ Java/
     │
     ├── 01_Data_Types.md
     ├── 02_Primitive_Data_Types.md
+    ├── 03_NonPrimitive_Data_Types.md
+    
+
+        
+
+
     
 ```
 
